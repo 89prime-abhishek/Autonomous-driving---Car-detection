@@ -1,0 +1,10 @@
+Convolutional Neural Networks: Application
+
+* `initialize_parameters`: added details about tf.get_variable, `eval`. Clarified test case.
+* Added explanations for the kernel (filter) stride values, max pooling, and flatten functions.
+* Added details about softmax cross entropy with logits.
+* Added instructions for creating the Adam Optimizer.
+* Added explanation of how to evaluate tensors (optimizer and cost).
+* `forward_propagation`: clarified instructions, use "F" to store "flatten" layer.
+* Updated print statements and 'expected output' for easier visual comparisons.
+* Many thanks to Kevin P. Brown (mentor for the deep learning specialization) for his suggestions on the assignments in this course!
